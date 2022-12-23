@@ -4,15 +4,15 @@
   <groupId>dev.patricksilva</groupId>
   <artifactId>app-users-api</artifactId>
   <name>app-users-api</name>
-  <version>1</version>
+  <version>1.0</version>
   <prerequisites>
     <maven>3.0.0</maven>
   </prerequisites>
   <inceptionYear>2016</inceptionYear>
   <scm />
   <organization>
-    <name>My Company</name>
-    <url>http://www.company.com</url>
+    <name>Patrick Loureiro da Silva</name>
+    <url>https://patricksilva.dev</url>
   </organization>
   <build>
     <finalName>${project.artifactId}-${project.version}</finalName>
